@@ -31,7 +31,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    being able to access the latest changes on the remote to see the difference between  
+    the origin/master and local master branch. also, if youre going to be offline for a while 
+    downloading the latest state allows you to access it without internet.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
